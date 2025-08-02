@@ -1,0 +1,9 @@
+1,Standard,1000.0,true
+2,Standard,1000.0,true
+3,Standard,1000.0,true
+4,Deluxe,2000.0,false
+5,Deluxe,2000.0,true
+6,Deluxe,2000.0,true
+7,Suite,3000.0,false
+8,Suite,3000.0,true
+9,Suite,3000.0,true

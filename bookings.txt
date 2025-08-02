@@ -1,0 +1,2 @@
+sindhu,4,Deluxe,2000.0
+76,7,Suite,3000.0
